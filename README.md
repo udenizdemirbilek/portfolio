@@ -27,7 +27,7 @@ This is my personal portfolio page.
 
 ### Links
 
-- Live Site URL: [Add live site URL here](www.denizdemirbilek.com)
+- Live Site URL: [www.denizdemirbilek.com](www.denizdemirbilek.com)
 
 ## My process
 
