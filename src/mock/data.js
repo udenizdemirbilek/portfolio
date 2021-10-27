@@ -45,7 +45,7 @@ export const projectsData = [
     title: 'Order Tracking App',
     info: 'Created a restaurant order tracking application with a partner',
     info2: 'Environment: React.js, Firebase, Bootstrap, CSS',
-    url: 'https://kanbanboard-recoded.netlify.app/',
+    url: 'https://quizzical-tereshkova-e73f27.netlify.app/',
     repo: 'https://github.com/udenizdemirbilek/kanbanBoard', // if no repo, the button will not show up
   },
   {
@@ -54,7 +54,7 @@ export const projectsData = [
     title: 'Movie Database Search',
     info: 'Created a movie database catalog with a partner using The Movie Database API',
     info2: 'Environment: JavaScript and CSS, minimal HTML',
-    url: 'https://movieproject-recoded.netlify.app/',
+    url: 'https://determined-murdock-b762fa.netlify.app/',
     repo: 'https://github.com/udenizdemirbilek/movie-website', // if no repo, the button will not show up
   },
 ];
